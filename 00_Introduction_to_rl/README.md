@@ -25,7 +25,8 @@ A reinforcement learning problem can be divided into four subelements: policy, r
 ### Markov Processes
 
  - **Markov property**: Once the current state is known, the history of information encountered so far may be thrown away, and that state is a sufficient statistic that gives us the same characterization of the future as if we have all the history.
-**<p align="center">P[S<sub>t+1</sub> | S<sub>t</sub>] = P[S<sub>t+1</sub> | S<sub>1</sub>, S<sub>2</sub> .......... S<sub>t</sub>]</p>**
+<p align="center"><strong>P[S<sub>t+1</sub> | S<sub>t</sub>] = P[S<sub>t+1</sub> | S<sub>1</sub>, S<sub>2</sub> .......... S<sub>t</sub>]</strong></p>
+
  - **Transition probability**:  It’s a probability distribution over next possible successor states, given the current state, i.e. the agent is in some state, there is a probability to go to the first state, and another probability to go to the second state and so on.
 
  - **State transition matrix**: It defines transition probabilities from all state **S** to successor state **S'**. 
@@ -34,7 +35,8 @@ A Markov process is a memory-less random process, i.e. a sequence of random stat
 
 ### Markov Reward Process
 A Markov Reward Process or an MRP is a Markov process with value judgment, saying how much reward accumulated through some particular sequence that we sampled. An MRP is a tuple **(S, P, R)** where **S** is a finite state space, **P** is the state transition probability function, **R** is a reward function where it says how much immediate reward we expect to get from state **S** at the moment.
-**<p align="center">R<sub>s</sub> = [R<sub>t+1</sub> | S<sub>t</sub> = S]</p>**
+<p align="center"><strong>R<sub>s</sub> = [R<sub>t+1</sub> | S<sub>t</sub> = S]</strong></p>
+
 There is the notion of the return **G<sub>t</sub>**, which is the total discounted rewards from time step **t**. This is what we care about, the goal is to maximise this return
 <p align="center">
   <img float="center" src="./images/discounted_reward.png" height="100px"/>
