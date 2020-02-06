@@ -3,7 +3,8 @@
 This repository contain my work regarding Deep Reinforcment Learning. You will find the main topics organized by squence with there implementaion in PyTorch. Also, It contains some of my project or links on reinforcment learning. You are highly encouraged to modify and play with them!.
 
 ## Topics
-- [Introduction to Reinforcement Learning](./00_Introduction_to_rl/)
+- [Introduction to Reinforcement Learning](./course/00_Introduction_to_rl/)
+- [Dynamic Programing](./course/01_dynamic_programming/)
 - [Q-learning](./qlearning)
 - [Deep Q-learning]()
 - [Policy Gradients]()

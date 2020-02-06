@@ -60,7 +60,7 @@ def main():
     while True:
 
         if not paused:
-            screen = grab_screen(region=(40, 250, 860, 560))
+            screen = grab_screen(region=(264, 269, 565, 500))
             screen = cv2.resize(screen, (86, 56))
             screen = cv2.cvtColor(screen, cv2.COLOR_BGR2GRAY)
 
