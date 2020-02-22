@@ -25,16 +25,16 @@ Steps:
  - Stacking Frames 4 frames together.
 
 ## Deep RL Agents
- - Deep Q Network(DQN) [**[Preview]**](./pages/space_invader_dqn.html) [**[Download**]](./space_invader_dqn.ipynb)
- - Dueling Double DQN [].
- - Monte Carlo Policy Gradient.
- - TD Actor-Critic.
- - Advantage Actor Critic (A2C).
- - Trust Region Policy Optimization(TRPO)
- - Proximal Policy Gradients(PPO).
- - Deep Deterministic Policy Gradient(DDPG)
- - Twin Delayed DDPG
- - Soft Actor Critic (SAC)
+ - Deep Q Network(DQN) [**[Preview]**](./pages/space_invader_dqn.html) [**[Download]**](./space_invader_dqn.ipynb).
+ - Dueling Double DQN [**[Preview]**](./pages/space_invader_ddqn.html) [**[Download]**](./space_invader_ddqn.ipynb).
+ - Monte Carlo Policy Gradient [**[Preview]**](./pages/space_invader_pg.html) [**[Download]**](./space_invader_pg.ipynb).
+ - TD Actor-Critic [**[Preview]**](./pages/space_invader_ac.html) [**[Download]**](./space_invader_ac.ipynb).
+ - Advantage Actor Critic (A2C) [**[Preview]**](./pages/space_invader_a2c.html) [**[Download]**](./space_invader_a2c.ipynb).
+ - Trust Region Policy Optimization(TRPO) [**[Preview]**](./pages/space_invader_trpo.html) [**[Download]**](./space_invader_trpo.ipynb).
+ - Proximal Policy Gradients(PPO) [**[Preview]**](./pages/space_invader_ppo.html) [**[Download]**](./space_invader_ppo.ipynb).
+ - Deep Deterministic Policy Gradient(DDPG) [**[Preview]**](./pages/space_invader_ddpg.html) [**[Download]**](./space_invader_ddpg.ipynb)
+ - Twin Delayed DDPG(TD3) [**[Preview]**](./pages/space_invader_td3.html) [**[Download]**](./space_invader_td3.ipynb)
+ - Soft Actor Critic (SAC) [**[Preview]**](./pages/space_invader_sac.html) [**[Download]**](./space_invader_sac.ipynb)
 
 
 
