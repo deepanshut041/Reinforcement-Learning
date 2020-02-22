@@ -25,7 +25,7 @@ Steps:
  - Stacking Frames 4 frames together.
 
 ## Deep RL Agents
- - Deep Q Network(DQN) [Implementation](./space_invader_dqn.ipynb) [Python Notebook](./space_invader_dqn.ipynb)
+ - Deep Q Network(DQN) [**[Preview]**](./pages/space_invader_dqn.html) [**[Download**]](./space_invader_dqn.ipynb)
  - Dueling Double DQN [].
  - Monte Carlo Policy Gradient.
  - TD Actor-Critic.
