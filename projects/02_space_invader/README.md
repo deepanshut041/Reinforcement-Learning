@@ -30,11 +30,29 @@ Steps:
  - Monte Carlo Policy Gradient [**[Preview]**](./pages/space_invader_pg.html) [**[Download]**](./space_invader_pg.ipynb).
  - TD Actor-Critic [**[Preview]**](./pages/space_invader_ac.html) [**[Download]**](./space_invader_ac.ipynb).
  - Advantage Actor Critic (A2C) [**[Preview]**](./pages/space_invader_a2c.html) [**[Download]**](./space_invader_a2c.ipynb).
- - Trust Region Policy Optimization(TRPO) [**[Preview]**](./pages/space_invader_trpo.html) [**[Download]**](./space_invader_trpo.ipynb).
  - Proximal Policy Gradients(PPO) [**[Preview]**](./pages/space_invader_ppo.html) [**[Download]**](./space_invader_ppo.ipynb).
- - Deep Deterministic Policy Gradient(DDPG) [**[Preview]**](./pages/space_invader_ddpg.html) [**[Download]**](./space_invader_ddpg.ipynb)
- - Twin Delayed DDPG(TD3) [**[Preview]**](./pages/space_invader_td3.html) [**[Download]**](./space_invader_td3.ipynb)
- - Soft Actor Critic (SAC) [**[Preview]**](./pages/space_invader_sac.html) [**[Download]**](./space_invader_sac.ipynb)
+
+<!-- ## Results
+| | |
+|:-------------------------:|:-------------------------:|
+|<img src="./images/result_dqn.png">  Deep Q Network(DQN) | <img src="./images/result_dqn.png"> Dueling Double DQN |
+|<img src="./images/result_dqn.png">  Deep Q Network(DQN) | <img src="./images/result_dqn.png"> Dueling Double DQN |
+|<img src="./images/result_dqn.png">  Deep Q Network(DQN) | <img src="./images/result_dqn.png"> Dueling Double DQN |
+|<img src="./images/result_dqn.png">  Deep Q Network(DQN) | <img src="./images/result_dqn.png"> Dueling Double DQN |
+|<img src="./images/result_dqn.png">  Deep Q Network(DQN) | <img src="./images/result_dqn.png"> Dueling Double DQN | -->
+
+## Any questions
+If you have any questions, feel free to ask me: 
+* **Mail**: <a href="mailto:deepanshut041@gmail.com">deepanshut041@gmail.com</a>  
+* **Github**: [https://github.com/deepanshut041/Reinforcement-Learning](https://github.com/deepanshut041/Reinforcement-Learning) 
+* **Website**: [https://deepanshut041.github.io/Reinforcement-Learning](https://deepanshut041.github.io/Reinforcement-Learning) 
+* **Twitter**: <a href="https://twitter.com/deepanshut041">@deepanshut041</a> 
+
+Don't forget to follow me on <a href="https://twitter.com/deepanshut041">twitter</a>, <a href="https://github.com/deepanshut041">github</a> and <a href="https://medium.com/@deepanshut041">Medium</a> to be alerted of the new articles that I publish
+
+## How to help 
+- **Clap on articles**: Clapping in Medium means that you really like my articles. And the more claps I have, the more my article is shared help them to be much more visible to the deep learning community.
+- **Improve our notebooks**: if you found a bug or **a better implementation** you can send a pull request.
 
 
 
