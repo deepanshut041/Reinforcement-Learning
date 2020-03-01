@@ -22,11 +22,12 @@ This repository contain my work regarding Deep Reinforcment Learning. You will f
 
 - [Taxi-v2](./cgames/01_taxi)
 - [Atari Space Invaders](./cgames/02_space_invader)
-- [Doom Deadly Corridor](./cgames/03_doom_corridor)
-- [Doom Deathmatch](./cgames/04_doom_deathmatch)
-- [Sonic the Hedgehog 2](./cgames/05_sonic2)
-- [Sonic the Hedgehog 3](./cgames/06_sonic3)
-- [Montezuma's revenge](./cgames/07_montezuma_revenge)
+- [Doom Defend Center](./cgames/03_doom_defend_center)
+- [Doom Deadly Corridor](./cgames/04_doom_corridor)
+- [Doom Deathmatch](./cgames/05_doom_deathmatch)
+- [Sonic the Hedgehog 2](./cgames/06_sonic2)
+- [Sonic the Hedgehog 3](./cgames/07_sonic3)
+- [Montezuma's revenge](./cgames/08_montezuma_revenge)
 
 ## Any questions
 If you have any questions, feel free to ask me: 
