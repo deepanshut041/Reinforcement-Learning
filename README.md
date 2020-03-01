@@ -17,16 +17,16 @@ This repository contain my work regarding Deep Reinforcment Learning. You will f
 - [Twin Delayed DDPG](./notes/09_td3)
 - [Soft Actor-Critic](./notes/10_sac)
 
-## Projects
-<img src="./images/projects.jpg">
+## Classic Games
+<img src="./images/cgames.jpg">
 
-- [Taxi-v2](./projects/01_taxi)
-- [Atari Space Invaders](./projects/02_space_invader)
-- [Doom Deadly Corridor](./projects/03_doom_corridor)
-- [Doom Deathmatch](./projects/04_doom_deathmatch)
-- [Sonic the Hedgehog 2](./projects/05_sonic2)
-- [Sonic the Hedgehog 3](./projects/06_sonic3)
-- [Montezuma's revenge](./projects/07_montezuma_revenge)
+- [Taxi-v2](./cgames/01_taxi)
+- [Atari Space Invaders](./cgames/02_space_invader)
+- [Doom Deadly Corridor](./cgames/03_doom_corridor)
+- [Doom Deathmatch](./cgames/04_doom_deathmatch)
+- [Sonic the Hedgehog 2](./cgames/05_sonic2)
+- [Sonic the Hedgehog 3](./cgames/06_sonic3)
+- [Montezuma's revenge](./cgames/07_montezuma_revenge)
 
 ## Any questions
 If you have any questions, feel free to ask me: 
