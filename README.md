@@ -2,8 +2,17 @@
 
 This repository contain my work regarding Deep Reinforcment Learning. You will find the main topics organized by squence with there implementaion in PyTorch. Also, It contains some of my project or links on reinforcment learning. You are highly encouraged to modify and play with them!.
 
+<strong>
+
+ - [Notes](#Notes): Implementation of various DRL algorithms with notes regarding them
+ - [Benchmarking DRL Algorithms on Classic Games](#discrete) (discrete)
+ - [Benchmarking DRL Algorithms on Classic Games](#discrete) (continous)
+</strong>
+
+<hr>
+
 ## Notes
-<img src="./images/main.gif">
+<p align="center"><img src="./images/main.gif"></p>
 
 - [Introduction to Reinforcement Learning](./notes/00_Introduction_to_rl/)
 - [Dynamic Programing](./notes/01_dynamic_programming/): Implement Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
@@ -17,17 +26,27 @@ This repository contain my work regarding Deep Reinforcment Learning. You will f
 - [Twin Delayed DDPG](./notes/09_td3)
 - [Soft Actor-Critic](./notes/10_sac)
 
-## Classic Games
-<img src="./images/cgames.jpg">
+## <a name="discrete"></a> Benchmarking DRL Algorithm(Discrete) on Classic Games
+<p align="center"><img src="./images/cgames.gif" width="100%"></p>
 
-- [Taxi-v2](./cgames/01_taxi)
-- [Atari Space Invaders](./cgames/02_space_invader)
-- [Doom Defend Center](./cgames/03_doom_defend_center)
-- [Doom Deadly Corridor](./cgames/04_doom_corridor)
-- [Doom Deathmatch](./cgames/05_doom_deathmatch)
-- [Sonic the Hedgehog 2](./cgames/06_sonic2)
-- [Sonic the Hedgehog 3](./cgames/07_sonic3)
-- [Montezuma's revenge](./cgames/08_montezuma_revenge)
+We used classic games from OpenAI Gym and Vizdoom as our main testbed to study the behaviour of the following algorithms:
+ 1. DQN — Deep Q-learning
+ 2. DDQN — Dueling DQN
+ 3. Rainbow
+ 4. Reinforce + Actor Critic
+ 5. A2C — Advantage Actor Critic
+ 6. PPO — Proximal Policy Optimization
+
+We compare the results of launch of six algorithms on games from two perspectives: Traning and Testing. Same Deep Neural Network is used for all algorithms. Click on particular game for more information.
+
+| Games | Game Difficulty | Implementations | 
+|:-:|:-|:-:|
+|Atari Ping Pong| :star:|[**Read More**](./cgames/01_ping_pong) |
+|Atari Space Invaders| :star::star:|[**Read More**](./cgames/02_space_invader) |
+|Doom Defend Center| :star::star::star:|[**Read More**](./cgames/03_doom_defend_center) |
+|Doom Deadly Corridor| :star::star::star::star:|[**Read More**](./cgames/04_doom_corridor) |
+|Sonic the Hedgehog| :star::star::star::star::star:|[**Read More**](./cgames/05_sonic) |
+|Sonic the Hedgehog| :star::star::star::star::star::star:|[**Read More**](./cgames/06_sonic2) |
 
 ## Any questions
 If you have any questions, feel free to ask me: 
