@@ -49,6 +49,11 @@ We compare the results of launch of six algorithms on games from two perspective
 |Sonic the Hedgehog| :star::star::star::star::star:|[**Read More**](./cgames/05_sonic) |
 |Sonic the Hedgehog| :star::star::star::star::star::star:|[**Read More**](./cgames/06_sonic2) |
 
+## References 
+Algorithms implementation resembles below references. Content is only for eduactional purposes no claim on orignality of content or structure of repository.
+ - https://github.com/udacity/deep-reinforcement-learning (Udacity Deep Reinforcement Learning Nanodegree)
+ - https://simoninithomas.github.io/Deep_reinforcement_learning_Course (Deep Reinforcement Learning course by SIMONINI Thomas)
+
 ## Any questions
 If you have any questions, feel free to ask me: 
 * **Mail**: <a href="mailto:deepanshut041@gmail.com">deepanshut041@gmail.com</a>  
