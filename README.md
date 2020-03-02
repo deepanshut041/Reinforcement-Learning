@@ -7,6 +7,7 @@ This repository contain my work regarding Deep Reinforcment Learning. You will f
  - [Notes](#Notes): Implementation of various DRL algorithms with notes regarding them
  - [Benchmarking DRL Algorithms on Classic Games](#discrete) (discrete)
  - [Benchmarking DRL Algorithms on Classic Games](#discrete) (continous)
+ 
 </strong>
 
 <hr>
