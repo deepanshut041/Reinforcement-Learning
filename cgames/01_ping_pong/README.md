@@ -35,7 +35,7 @@ Steps:
 - Deep Q Network(DQN) [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_dqn.ipynb) [**[Download]**](./ping_pong_dqn.ipynb).
 - Dueling Double DQN [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_ddqn.ipynb) [**[Download]**](./ping_pong_ddqn.ipynb).
 - Monte Carlo Policy Gradient [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_pg.ipynb) [**[Download]**](./ping_pong_pg.ipynb).
-- TD Actor-Critic [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_ac.ipynb) [**[Download]**](./ping_pong_ac.ipynb).
+- Rainbow [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_rainbow.ipynb) [**[Download]**](./ping_pong_rainbow.ipynb).
 - Advantage Actor Critic (A2C) [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_a2c.ipynb) [**[Download]**](./ping_pong_a2c.ipynb).
 - Proximal Policy Gradients(PPO) [**[Preview]**](https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_ppo.ipynb) [**[Download]**](./ping_pong_ppo.ipynb).
 
