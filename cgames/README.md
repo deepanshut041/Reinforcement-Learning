@@ -5,7 +5,7 @@ We used classic games from OpenAI Gym and Vizdoom as our main testbed to study t
  1. DQN — Deep Q-learning
  2. DDQN — Dueling DQN
  3. Rainbow
- 4. Reinforce + Actor Critic
+ 4. Reinforce
  5. A2C — Advantage Actor Critic
  6. PPO — Proximal Policy Optimization
 
