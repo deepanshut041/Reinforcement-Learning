@@ -63,12 +63,12 @@ We compare the results of launch of six algorithms on games from two perspective
 
 | Games | Game Difficulty | Implementations |
 |:-:|:-|:-:|
-|3D Balance Ball| :star:|[**Read More**](./cgames/01_balance_ball) |
-|Tennis| :star::star:|[**Read More**](./cgames/02_tennis) |
-|Wall Jump| :star::star::star:|[**Read More**](./cgames/03_wall_jump) |
-|Reacher| :star::star::star::star:|[**Read More**](./cgames/04_reacher) |
-|Soccer Twos| :star::star::star::star::star:|[**Read More**](./cgames/05_soccer_twos) |
-|Walker| :star::star::star::star::star::star:|[**Read More**](./cgames/06_walker) |
+|3D Balance Ball| :star:|[**Read More**](./mlagents/01_balance_ball) |
+|Tennis| :star::star:|[**Read More**](./mlagents/02_tennis) |
+|Wall Jump| :star::star::star:|[**Read More**](./mlagents/03_wall_jump) |
+|Reacher| :star::star::star::star:|[**Read More**](./mlagents/04_reacher) |
+|Soccer Twos| :star::star::star::star::star:|[**Read More**](./mlagents/05_soccer_twos) |
+|Walker| :star::star::star::star::star::star:|[**Read More**](./mlagents/06_walker) |
 
 ## References
 
