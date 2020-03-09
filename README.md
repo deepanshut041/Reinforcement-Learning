@@ -4,7 +4,7 @@ This repository contain my work regarding Deep Reinforcment Learning. You will f
 
 - [Notes](#Notes): Implementation of various DRL algorithms with notes regarding them
 - [Benchmarking DRL Algorithms on Classic Games](#discrete) (discrete)
-- [Benchmarking DRL Algorithms on Classic Games](#discrete) (continous)
+- [Benchmarking DRL Algorithms on Unity Ml Agents](#continous) (continous)
 
 ___
 
@@ -48,7 +48,29 @@ We compare the results of launch of six algorithms on games from two perspective
 |Sonic the Hedgehog| :star::star::star::star::star:|[**Read More**](./cgames/05_sonic) |
 |Sonic the Hedgehog| :star::star::star::star::star::star:|[**Read More**](./cgames/06_sonic2) |
 
-## References 
+## <a name="continous"></a> Benchmarking DRL Algorithm(Continous) on Unity Ml Agents
+
+<p align="center"><img src="./images/mlagents.png" width="100%"></p>
+
+We used mlagents from Unity as our main testbed to study the behaviour of the following algorithms:
+
+ 1. PPO - Proximal Policy Optimization
+ 2. DDPG - Deep Deterministic Policy Gradient
+ 3. TD3 - Twin Delayed DDPG
+ 4. SAC - Soft Actor-Critic
+
+We compare the results of launch of six algorithms on games from two perspectives: Traning and Testing. Same Deep Neural Network is used for all algorithms. Click on particular game for more information.
+
+| Games | Game Difficulty | Implementations |
+|:-:|:-|:-:|
+|3D Balance Ball| :star:|[**Read More**](./cgames/01_balance_ball) |
+|Tennis| :star::star:|[**Read More**](./cgames/02_tennis) |
+|Wall Jump| :star::star::star:|[**Read More**](./cgames/03_wall_jump) |
+|Reacher| :star::star::star::star:|[**Read More**](./cgames/04_reacher) |
+|Soccer Twos| :star::star::star::star::star:|[**Read More**](./cgames/05_soccer_twos) |
+|Walker| :star::star::star::star::star::star:|[**Read More**](./cgames/06_walker) |
+
+## References
 
 Algorithms implementation resembles below references. Content is only for eduactional purposes no claim on orignality of content or structure of repository.
 
